@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1209","name is required test","chromium tests","Fri Jul 25 12:06:37 GMT 2025","passed","Fri Jul 25 12:06:38 GMT 2025","","name-is-required.spec.ts","",""
+"","37049","css score","chromium tests","Fri Jul 25 12:06:37 GMT 2025","passed","Fri Jul 25 12:07:14 GMT 2025","","css-score.spec.ts","",""
+"","36877","xpath score","chromium tests","Fri Jul 25 12:06:37 GMT 2025","passed","Fri Jul 25 12:07:14 GMT 2025","","xpath-score.spec.ts","",""
