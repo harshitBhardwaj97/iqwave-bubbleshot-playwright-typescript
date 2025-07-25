@@ -11,3 +11,13 @@ strategies.
 
 idea inspired by a [video](https://www.youtube.com/watch?v=2XZR-CXBFaA&ab_channel=LetCodewithKoushik)
 from [letcode with koushik](https://www.youtube.com/@letcode).
+
+## 📈 allure report + ci/cd integration
+
+- 🧾 test results are auto-generated using **allure**
+- 🚀 on every push to main, tests run via **github actions**
+- 📦 reports are deployed to **github pages** under the **gh-pages** branch
+- 🔗 latest reports are accessible from
+  [here](https://harshitbhardwaj97.github.io/iqwave-bubbleshot-playwright-typescript)
+
+---
