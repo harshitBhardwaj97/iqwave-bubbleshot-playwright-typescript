@@ -68,20 +68,19 @@ export default defineConfig({
         ...devices["Desktop Chrome"],
       },
     },
-    //
-    // {
-    //   name: "edge tests",
-    //   use: {
-    //     ...devices["Desktop Edge"],
-    //   },
-    // },
-    //
-    // {
-    //   name: "safari (webkit) tests",
-    //   use: {
-    //     ...devices["Desktop Safari"],
-    //   },
-    // },
+    {
+      name: "edge tests",
+      use: {
+        ...devices["Desktop Edge"],
+      },
+    },
+
+    {
+      name: "safari (webkit) tests",
+      use: {
+        ...devices["Desktop Safari"],
+      },
+    },
   ],
 
   /* Run your local dev server before starting the tests */
